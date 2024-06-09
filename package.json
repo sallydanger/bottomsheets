@@ -12,6 +12,6 @@
     ],
     "category": "UI",
     "dependencies": {
-        "com.nobi.roundedcorners": "https://github.com/kirevdokimov/Unity-UI-Rounded-Corners.git"
+        "com.nobi.roundedcorners": "3.4.1"
     }
 }
