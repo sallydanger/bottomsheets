@@ -1,0 +1,12 @@
+{
+    "name": "com.sallydanger.bottomsheets",
+    "version": "1.0.0",
+    "displayName": "Bottom Sheets",
+    "description": "Sample implementation of Bottom Sheets for Unity",
+    "unity": "2022.3.20f1",
+    "author": {
+        "name": "sallydanger",
+        "email": "",
+        "url": "https://github.com/sallydanger/bottomsheets"
+    }
+}
